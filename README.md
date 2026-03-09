@@ -92,5 +92,5 @@ This notebook is part of my deep learning self-study series while building towar
 
 ## Author
 
-**Sarthak** — LTIMindtree 2025 Batch  
+**Sarthak** 
 Self-studying deep learning with PyTorch
